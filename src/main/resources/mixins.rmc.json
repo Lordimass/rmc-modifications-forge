@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "priority": 1100,
+  "package": "net.lordimass.rmc.modifications.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "rmc.refmap.json",
+  "mixins": [
+    "KeyBindsListMixin"
+  ]
+}
