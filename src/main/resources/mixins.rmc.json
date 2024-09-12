@@ -6,6 +6,5 @@
   "compatibilityLevel": "JAVA_17",
   "refmap": "rmc.refmap.json",
   "mixins": [
-    "KeyBindsListMixin"
   ]
 }
