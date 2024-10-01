@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "": {"model": "rmcmodifications:block/no_fly_zone_marker"},
+    "direction=ew": {"model":  "rmcmodifications:block/no_fly_zone_marker", "y": 90}
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=z": {"model": "rmcmodifications:block/trophy"},
+    "axis=x": {"model": "rmcmodifications:block/trophy", "y": 90}
+  }
+}
